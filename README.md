@@ -274,8 +274,6 @@ Tools       : Git · GitHub · VS Code
 [![Star](https://img.shields.io/github/stars/PDA-DP-Shop/NCT-website?style=for-the-badge&logo=github&color=gold&labelColor=000)](https://github.com/PDA-DP-Shop/NCT-website/stargazers)
 [![View Repo](https://img.shields.io/badge/📁_View_Repo-000000?style=for-the-badge&logo=github)](https://github.com/PDA-DP-Shop/NCT-website)
 
-<img src="https://pda-dp-shop.github.io/Devansh-Patel/image/NCT.png" width="80%" style="border-radius:12px; margin: 10px 0;" />
-
 </div>
 
 > Professional business site for Nirmaan Chemtech — construction chemicals company. Sections: Home, About, Products, Projects, Clients, Contact. Features waterproofing systems, structural compounds, industrial coatings. 10K+ lines.
