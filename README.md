@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/141921539?v=4" width="150" style="border-radius: 50%; border: 4px solid gold;"/>
+<img src="https://avatars.githubusercontent.com/u/141921539?v=4" width="150" style="border-radius: 50px; border: 4px solid gold;"/>
 
 <h1>👋 Hey, I'm <b>Patel Devansh</b></h1>
 
@@ -403,21 +403,10 @@ Tools       : Git · GitHub · VS Code
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PDA-DP-Shop&theme=dark&background=0d1117&ring=FFD700&fire=FF6B35&currStreakLabel=FFD700&hide_border=true&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PDA-DP-Shop&theme=darkhub&no-frame=true&margin-w=6&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PDA-DP-Shop&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDA-DP-Shop/PDA-DP-Shop/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDA-DP-Shop/PDA-DP-Shop/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PDA-DP-Shop/PDA-DP-Shop/output/github-snake-dark.svg"/>
-</picture>
 
 ---
 
