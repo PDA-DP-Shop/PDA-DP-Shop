@@ -15,9 +15,18 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PDA-DP-Shop&style=for-the-badge&color=gold&labelColor=000000&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/PDA-DP-Shop?style=for-the-badge&logo=github&color=gold&labelColor=000000)](https://github.com/PDA-DP-Shop?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/PDA-DP-Shop?style=for-the-badge&logo=github&color=gold&labelColor=000000)](https://github.com/PDA-DP-Shop)
+<!-- ALL STATS BADGES — valid colors -->
+![Profile Views](https://komarev.com/ghpvc/?username=PDA-DP-Shop&style=for-the-badge&color=yellow&labelColor=000000&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/PDA-DP-Shop?style=for-the-badge&logo=github&logoColor=white&color=yellow&labelColor=000000&label=FOLLOWERS)](https://github.com/PDA-DP-Shop?tab=followers)
+[![Stars](https://img.shields.io/github/stars/PDA-DP-Shop?style=for-the-badge&logo=github&logoColor=white&color=yellow&labelColor=000000&label=TOTAL+STARS)](https://github.com/PDA-DP-Shop)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/PDA-DP-Shop&query=public_repos&style=for-the-badge&color=yellow&labelColor=000000&label=PUBLIC+REPOS&logo=github&logoColor=white)](https://github.com/PDA-DP-Shop?tab=repositories)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-VISIT-FFD700?style=for-the-badge&labelColor=000000)](https://pda-dp-shop.github.io/Devansh-Patel/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patel-devansh-296a86344)
+[![Email](https://img.shields.io/badge/GMAIL-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshpatel12022005@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918000662685)
 
 </div>
 
