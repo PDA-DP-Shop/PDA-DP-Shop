@@ -9,7 +9,7 @@
 <h1>👋 Hey, I'm <b>Patel Devansh</b></h1>
 
 <p><i>Full Stack Developer from India 🇮🇳 
-  Building real things, solving real problems.</i></p>
+  <br>Building real things, solving real problems.</i></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=🤖+AI+%26+ML+Engineer+—+TensorFlow+%7C+PyTorch+%7C+Groq;🚛+FleetFlow+—+Enterprise+Fleet+%26+Logistics+SaaS;🌐+React+%7C+Node.js+%7C+Express+%7C+MySQL+%7C+MongoDB;🧠+Medical+AI+%7C+Deepfake+Detection+%7C+Image+Classification;📄+Free+Resume+Builder+%7C+Budget+Tracker+%7C+Real+Estate;💡+13%2B+Projects+%7C+Always+Building+Something+New)](https://git.io/typing-svg)
 
